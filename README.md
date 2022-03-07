@@ -15,6 +15,7 @@
 - ###### [Lspsaga.nvim](https://github.com/tami5/lspsaga.nvim) - Lspsaga is light-weight lsp plugin based on neovim built-in lsp with highly a performant UI.
 - ###### [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Telescope.nvim is a highly extendable fuzzy finder over lists.
 - ###### [Defx.nvim](https://github.com/Shougo/defx.nvim) - Defx is a dark powered plugin for Neovim/Vim to browse files.
+- ###### [TokyoNight.nvim](https://github.com/folke/tokyonight.nvim) - A dark and light Neovim theme ported from the Visual Studio Code TokyoNight theme. Includes extra themes for Kitty, Alacritty, iTerm and Fish.
 
 ###### SHELL CONFIGURATION
 - ###### [Fish](https://fishshell.com/) - Fish is a smart and user-friendly command line shell. 
